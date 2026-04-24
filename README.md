@@ -1,4 +1,4 @@
-# Pyython_Data_Analysis_Project
+# Python_Data_Analysis_Project
 
 ## Business Problem
 Leadership wanted to understand which regions and product categories were performing well and which were underperforming.
